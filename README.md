@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Jeremy.</h1>
 <h3 align="center">A self-taught programmer transitioning from math teacher to SWE.</h3>
 
-- 🔭 I recently finished a [Battleship game.](https://jernestmyers.github.io/battleship/)
+- 🔭 I recently finished a [Battleship game](https://jernestmyers.github.io/battleship/).
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **React JS**.
 
-- 🤝 I’m looking for help with **design patterns and SOLID code.**
+- 🤝 I’m looking for help with **design patterns and SOLID code**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/jernestmyers](https://github.com/jernestmyers)
+- 👨‍💻 All of my projects are available [here on GitHub](https://github.com/jernestmyers).
 
-- 💬 Ask me about **front end development, math, civil engineering, and soccer.**
+- 💬 Ask me about **front end development, math, civil engineering, and soccer**.
 
-- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/jernestmyers)
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/jernestmyers).
 
 
 <h3 align="left">Languages and Tools:</h3>
