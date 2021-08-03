@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **front end development, math, civil engineering, and soccer.**
 
-- 📫 You can reach me on ![LinkedIn](www.linkedin.com/in/jernestmyers)
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/jernestmyers)
 
 
 <h3 align="left">Languages and Tools:</h3>
