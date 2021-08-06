@@ -3,7 +3,7 @@
 
 - 🔭 I recently finished a [Battleship game](https://jernestmyers.github.io/battleship/).
 
-- 🌱 I’m currently learning building [my first **ReactJS**](https://github.com/jernestmyers/cv-builder) project.
+- 🌱 I’m currently building [my first ReactJS](https://github.com/jernestmyers/cv-builder) project.
 
 - 🤝 I’m looking for help with **design patterns and SOLID code**.
 
