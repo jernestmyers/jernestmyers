@@ -16,6 +16,7 @@
   2. battleship - [live](https://jernestmyers.github.io/battleship/) / [README](https://github.com/jernestmyers/battleship#readme)
   3. todo list - [live](https://jernestmyers.github.io/todo-list/) / [README](https://github.com/jernestmyers/todo-list#readme)
   4. weather app - [live](https://jernestmyers.github.io/weather-app/) / [README](https://github.com/jernestmyers/weather-app#readme)
+  5. tic-tac-toe - [live](https://jernestmyers.github.io/tic-tac-toe/) / [README](https://github.com/jernestmyers/tic-tac-toe#readme)
 
 
 <h3 align="left">Languages and Tools:</h3>
