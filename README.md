@@ -7,11 +7,12 @@
 
 - 🤝 i’m looking for help with **design patterns and SOLID code**.
 
-- 👨‍💻 all of my projects are available [here on GitHub](https://github.com/jernestmyers).
-
 - 💬 ask me about **front end development, math, civil engineering, and soccer**.
 
 - 📫 you can reach me on [LinkedIn](https://www.linkedin.com/in/jernestmyers).
+
+- 👨‍💻 below is a list of some of my projects:
+  1. battleship - [live](https://jernestmyers.github.io/battleship/) / [repo](https://github.com/jernestmyers/battleship)
 
 
 <h3 align="left">Languages and Tools:</h3>
