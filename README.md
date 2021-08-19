@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Jeremy.</h1>
+<h1 align="center">Hi, I'm Jeremy. I'm well, how are you?</h1>
 <h3 align="center">A self-taught programmer transitioning from math teacher to SWE.</h3>
 
-- 🔭 I recently finished a [Battleship game](https://jernestmyers.github.io/battleship/).
+- 🔭 I recently finished a [CV builder](https://jernestmyers.github.io/cv-builder/) using ReactJS.
 
-- 🌱 I’m currently building my [first ReactJS project](https://github.com/jernestmyers/cv-builder).
+- 🌱 I’m currently building another project in React, [a memory game](https://github.com/jernestmyers/memory-game).
 
 - 🤝 I’m looking for help with **design patterns and SOLID code**.
 
