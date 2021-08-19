@@ -1,17 +1,17 @@
-<h1 align="center">Welcome, I'm Jeremy.</h1>
-<h3 align="center">A self-taught programmer transitioning from math teacher to SWE.</h3>
+<h1 align="center">welcome, i'm jeremy.</h1>
+<h3 align="center">a self-taught programmer transitioning from math teacher to SWE.</h3>
 
-- 🔭 I recently finished a [CV builder](https://jernestmyers.github.io/cv-builder/) using ReactJS.
+- 🔭 i recently finished a [CV builder](https://jernestmyers.github.io/cv-project/) using ReactJS.
 
-- 🌱 I’m currently building another project in React, [a memory game](https://github.com/jernestmyers/memory-game).
+- 🌱 i’m currently building another project in React, [a memory game](https://github.com/jernestmyers/memory-game).
 
-- 🤝 I’m looking for help with **design patterns and SOLID code**.
+- 🤝 i’m looking for help with **design patterns and SOLID code**.
 
-- 👨‍💻 All of my projects are available [here on GitHub](https://github.com/jernestmyers).
+- 👨‍💻 all of my projects are available [here on GitHub](https://github.com/jernestmyers).
 
-- 💬 Ask me about **front end development, math, civil engineering, and soccer**.
+- 💬 ask me about **front end development, math, civil engineering, and soccer**.
 
-- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/jernestmyers).
+- 📫 you can reach me on [LinkedIn](https://www.linkedin.com/in/jernestmyers).
 
 
 <h3 align="left">Languages and Tools:</h3>
