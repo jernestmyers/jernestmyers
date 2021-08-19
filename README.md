@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jeremy. I'm well, how are you?</h1>
+<h1 align="center">Welcome, I'm Jeremy.</h1>
 <h3 align="center">A self-taught programmer transitioning from math teacher to SWE.</h3>
 
 - 🔭 I recently finished a [CV builder](https://jernestmyers.github.io/cv-builder/) using ReactJS.
