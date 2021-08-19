@@ -11,12 +11,12 @@
 
 - 📫 you can reach me on [LinkedIn](https://www.linkedin.com/in/jernestmyers).
 
-- 👨‍💻 below is a list of some of my projects:
-  1. CV builder - [live](https://jernestmyers.github.io/cv-project/) / [README](https://github.com/jernestmyers/cv-project#readme)
-  2. battleship - [live](https://jernestmyers.github.io/battleship/) / [README](https://github.com/jernestmyers/battleship#readme)
-  3. todo list - [live](https://jernestmyers.github.io/todo-list/) / [README](https://github.com/jernestmyers/todo-list#readme)
-  4. weather app - [live](https://jernestmyers.github.io/weather-app/) / [README](https://github.com/jernestmyers/weather-app#readme)
-  5. tic-tac-toe - [live](https://jernestmyers.github.io/tic-tac-toe/) / [README](https://github.com/jernestmyers/tic-tac-toe#readme)
+- 👨‍💻 **below is a list of some of my projects**
+    1. CV builder   -  [live](https://jernestmyers.github.io/cv-project/) / [README](https://github.com/jernestmyers/cv-project#readme)
+    2. battleship   -  [live](https://jernestmyers.github.io/battleship/) / [README](https://github.com/jernestmyers/battleship#readme)
+    3. todo list    -  [live](https://jernestmyers.github.io/todo-list/) / [README](https://github.com/jernestmyers/todo-list#readme)
+    4. weather app  -  [live](https://jernestmyers.github.io/weather-app/) / [README](https://github.com/jernestmyers/weather-app#readme)
+    5. tic-tac-toe  -  [live](https://jernestmyers.github.io/tic-tac-toe/) / [README](https://github.com/jernestmyers/tic-tac-toe#readme)
 
 
 <h3 align="left">Languages and Tools:</h3>
