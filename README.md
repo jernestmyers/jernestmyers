@@ -1,9 +1,9 @@
 <h1 align="center">welcome, i'm jeremy.</h1>
 <h3 align="center">a self-taught programmer transitioning from math teacher to SWE.</h3>
 
-- 🔭 i recently finished a [CV builder](https://jernestmyers.github.io/cv-project/) using ReactJS.
+- 🔭 i recently finished [this memory game](https://jernestmyers.github.io/memory-game/) using ReactJS.
 
-- 🌱 i’m currently building another project in React, [a memory game](https://github.com/jernestmyers/memory-game).
+- 🌱 i’m currently learning about routing in React before beginning the next project, [a shopping cart](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/shopping-cart).
 
 - 🤝 i’m looking for help with **design patterns and SOLID code**.
 
@@ -12,11 +12,12 @@
 - 📫 you can reach me on [LinkedIn](https://www.linkedin.com/in/jernestmyers).
 
 - 👨‍💻 **below is a list of some of my projects**
-    1. CV builder   -  [live](https://jernestmyers.github.io/cv-project/) / [README](https://github.com/jernestmyers/cv-project#readme)
-    2. battleship   -  [live](https://jernestmyers.github.io/battleship/) / [README](https://github.com/jernestmyers/battleship#readme)
-    3. todo list    -  [live](https://jernestmyers.github.io/todo-list/) / [README](https://github.com/jernestmyers/todo-list#readme)
-    4. weather app  -  [live](https://jernestmyers.github.io/weather-app/) / [README](https://github.com/jernestmyers/weather-app#readme)
-    5. tic-tac-toe  -  [live](https://jernestmyers.github.io/tic-tac-toe/) / [README](https://github.com/jernestmyers/tic-tac-toe#readme)
+    1. memory game  -   [live](https://jernestmyers.github.io/memory-game/) / [README](https://github.com/jernestmyers/memory-game#readme)
+    2. CV builder   -   [live](https://jernestmyers.github.io/cv-project/) / [README](https://github.com/jernestmyers/cv-project#readme)
+    3. battleship   -   [live](https://jernestmyers.github.io/battleship/) / [README](https://github.com/jernestmyers/battleship#readme)
+    4. todo list    -   [live](https://jernestmyers.github.io/todo-list/) / [README](https://github.com/jernestmyers/todo-list#readme)
+    5. weather app  -   [live](https://jernestmyers.github.io/weather-app/) / [README](https://github.com/jernestmyers/weather-app#readme)
+    6. tic-tac-toe  -   [live](https://jernestmyers.github.io/tic-tac-toe/) / [README](https://github.com/jernestmyers/tic-tac-toe#readme)
 
 
 <h3 align="left">Languages and Tools:</h3>
