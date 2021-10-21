@@ -1,13 +1,13 @@
 <h1 align="center">welcome, i'm jeremy.</h1>
 <h3 align="center">a self-taught programmer transitioning from math teacher to SWE.</h3>
 
-- 🔭 i recently built a mock [e-commerce site](https://github.com/jernestmyers/shopping-cart) using react hooks, react router, and [the metropolitan museuem of art's api](https://metmuseum.github.io/).
+- 🔭 i recently built a mock [e-commerce site](https://jernestmyers.github.io/shopping-cart/) using react hooks, react router, and [the metropolitan museuem of art's api](https://metmuseum.github.io/).
 
 - 🌱 i’m currently reviewing more documentation related to react via [this lesson](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/advanced-concepts) on the odin project.
 
 - 🤝 i’m looking for help with **design patterns and SOLID code**.
 
-- 💬 ask me about **front end development, math, civil engineering, and soccer**.
+- 💬 ask me about **programming, math, civil engineering, and soccer**.
 
 - 📫 you can reach me on [LinkedIn](https://www.linkedin.com/in/jernestmyers).
 
