@@ -4,7 +4,7 @@
 - 🔭 i recently built a mock [e-commerce site](https://jernestmyers.github.io/shopping-cart/) using react hooks, react router, and [the metropolitan museuem of art's api](https://metmuseum.github.io/).
 
 - 🌱 i’m currently building a [photo-tagging game](https://github.com/jernestmyers/photo-tag-game) with react that leverages NoSQL cloud storage via firebase's firestore. learn more about the project specs [here](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/where-s-waldo-a-photo-tagging-app).
-- 
+
 - 🤝 i’m looking for help with **design patterns and SOLID code**.
 
 - 💬 ask me about **programming, math, civil engineering, and soccer**.
