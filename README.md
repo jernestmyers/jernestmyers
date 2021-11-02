@@ -1,7 +1,7 @@
 <h1 align="center">welcome, i'm jeremy.</h1>
 <h3 align="center">a self-taught programmer transitioning from math teacher to SWE.</h3>
 
-- 🔭 i recently built a [photo-tagging game](https://github.com/jernestmyers/photo-tag-game#readme) with react and firebase that is reminiscent of the "where's waldo" puzzles. the app leverages NoSQL cloud storage via firebase's firestore in order to verify target locations and to maintain a leaderboard. learn more about the project specs [here](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/where-s-waldo-a-photo-tagging-app).
+- 🔭 i recently built a [photo tagging game](https://github.com/jernestmyers/photo-tag-game#readme) with react and firebase that is reminiscent of the "where's waldo" puzzles. the app leverages NoSQL cloud storage via firebase's firestore in order to verify target locations and to maintain a leaderboard. learn more about the project specs [here](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/where-s-waldo-a-photo-tagging-app).
 
 - 🌱 i’m currently in the planning stages of my [next project](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/javascript-final-project). i'm also reviewing the [jest documentation](https://jestjs.io/) in order to better utilize testing during this project.
 
@@ -12,7 +12,7 @@
 - 📫 you can reach me on [LinkedIn](https://www.linkedin.com/in/jernestmyers).
 
 - 👨‍💻 **below is a list of some of my projects**
-    1. photo-tagging game   -   [live](https://jernestmyers.github.io/photo-tag-game/) / [README](https://github.com/jernestmyers/photo-tag-game#readme)
+    1. photo tagging game   -   [live](https://jernestmyers.github.io/photo-tag-game/) / [README](https://github.com/jernestmyers/photo-tag-game#readme)
     2. shopping cart        -   [live](https://jernestmyers.github.io/shopping-cart/) / [README](https://github.com/jernestmyers/shopping-cart#readme)
     3. memory game          -   [live](https://jernestmyers.github.io/memory-game/) / [README](https://github.com/jernestmyers/memory-game#readme)
     4. CV builder           -   [live](https://jernestmyers.github.io/cv-project/) / [README](https://github.com/jernestmyers/cv-project#readme)
