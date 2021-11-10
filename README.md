@@ -1,5 +1,5 @@
 <h1 align="center">welcome, i'm jeremy.</h1>
-<h3 align="center">a self-taught programmer transitioning from math teacher to SWE.</h3>
+<h3 align="center">self-taught programmer, former math teacher</h3>
 
 - 🔭 i recently built a [photo tagging game](https://github.com/jernestmyers/photo-tag-game#readme) with react and firebase that is reminiscent of the "where's waldo" puzzles. the app leverages NoSQL cloud storage via firebase's firestore in order to verify target locations and to maintain a leaderboard. learn more about the project specs [here](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/where-s-waldo-a-photo-tagging-app).
 
