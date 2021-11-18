@@ -3,7 +3,7 @@
 
 - 🔭 i recently built a [photo tagging game](https://github.com/jernestmyers/photo-tag-game#readme) with react and firebase that is reminiscent of the "where's waldo" puzzles. the app leverages NoSQL cloud storage via firebase's firestore in order to verify target locations and to maintain a leaderboard. learn more about the project specs [here](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/where-s-waldo-a-photo-tagging-app).
 
-- 🌱 i’m currently geeking out on the [Google Maps JavaScript API](https://developers.google.com/maps/documentation/javascript/overview?hl=en) and the [react-google-maps-api](https://github.com/JustFly1984/react-google-maps-api) library as i wireframe my [next project](https://github.com/jernestmyers/catch-me-at). i'm also reviewing the [jest documentation](https://jestjs.io/) in order to better utilize testing during this project.
+- 🌱 i’m currently geeking out on the [Google Maps JavaScript API](https://developers.google.com/maps/documentation/javascript/overview?hl=en) and the [react-google-maps-api](https://github.com/JustFly1984/react-google-maps-api) library as i build out my [next project](https://github.com/jernestmyers/catch-me-at), a web application that allows users to create and share itineraries.
 
 - 🤝 i’m looking to facilitate my growth via **code reviews and opportunities to collaborate**.
 
