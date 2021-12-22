@@ -3,7 +3,10 @@
 
 - 🔭 i recently built a feature-rich, robust [map itinerary builder](https://github.com/jernestmyers/catch-me-at#readme) with react and firebase. the app relies on the [Google Maps JavaScript API](https://developers.google.com/maps/documentation/javascript/overview?hl=en)- optimized by the [react-google-maps-api](https://github.com/JustFly1984/react-google-maps-api) library- to allow users to add, create, and delete markers on a Google map as users plan out a weekend or a trip. users can connect with fellow adventurers, share maps with connections, and both comment on and like other users' maps. the app leverages NoSQL cloud storage via firebase's firestore in order to persist all data, and users also authenticate via firebase.
 
-- 🌱 i’m currently learning NodeJS, wireframing my portfolio website, reviewing code and helping answer questions on [the odin project's](http://www.theodinproject.com), and re-reading *The Principles of Object-Oriented JavaScript*.
+- 🌱 i’m currently...
+    1. learning NodeJS and MongoDB
+    2. reviewing code and helping answer questions on [the odin project's](http://www.theodinproject.com) discord server
+    3. reading [YDKJS](https://github.com/getify/You-Dont-Know-JS) after having just re-read *The Principles of Object-Oriented JavaScript*.
 
 - 🤝 i’m looking to facilitate my growth via **code reviews and opportunities to collaborate**.
 
