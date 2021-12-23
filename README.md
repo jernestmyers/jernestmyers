@@ -3,7 +3,7 @@
 
 <h3>🔭 i most recently...</h3>
     <ol>
-        <li>built a feature-rich, robust [map itinerary builder](https://github.com/jernestmyers/catch-me-at#readme) with React, Firebase, [Google Maps JavaScript API](https://developers.google.com/maps/documentation/javascript/overview?hl=en) and [react-google-maps-api](https://github.com/JustFly1984/react-google-maps-api).</li>
+        <li>built a feature-rich, robust <a href="https://github.com/jernestmyers/catch-me-at#readme">map itinerary builder</a> with React, Firebase, [Google Maps JavaScript API](https://developers.google.com/maps/documentation/javascript/overview?hl=en) and [react-google-maps-api](https://github.com/JustFly1984/react-google-maps-api).</li>
         <li>completed the MongoDB University "MongoDB Basics" course.</li>
     </ol>
 
