@@ -3,15 +3,15 @@
 
 <h3>🔭 i most recently...</h3>
     <ol>
-        <li>built a feature-rich, robust <a href="https://github.com/jernestmyers/catch-me-at#readme">map itinerary builder</a> with React, Firebase, [Google Maps JavaScript API](https://developers.google.com/maps/documentation/javascript/overview?hl=en) and [react-google-maps-api](https://github.com/JustFly1984/react-google-maps-api).</li>
+        <li>built a feature-rich, robust <a href="https://github.com/jernestmyers/catch-me-at#readme">map itinerary builder</a> with React, Firebase, <a href="https://developers.google.com/maps/documentation/javascript/overview?hl=en">Google Maps JavaScript API</a> and <a href="https://github.com/JustFly1984/react-google-maps-api">react-google-maps-api</a>.</li>
         <li>completed the MongoDB University "MongoDB Basics" course.</li>
     </ol>
 
 <h3>🌱 i’m currently...</h3>
     <ol>
         <li>learning NodeJS, MongoDB, Express, and Mongoose as i deep dive into server side development.</li>
-        <li>reviewing code and helping answer questions on [the odin project's](http://www.theodinproject.com) discord server.</li>
-        <li>reading [YDKJS](https://github.com/getify/You-Dont-Know-JS) after having just re-read *The Principles of Object-Oriented JavaScript*.</li>
+        <li>reviewing code and helping answer questions on <a href="http://www.theodinproject.com">the odin project's</a> discord server.</li>
+    <li>reading <a href="https://github.com/getify/You-Dont-Know-JS">YDKJS</a> after having just re-read <em>The Principles of Object-Oriented JavaScript<em>.</li>
     </ol>
 
 <h4>🤝 i’m looking to facilitate my growth via code reviews and opportunities to collaborate.</h4>
