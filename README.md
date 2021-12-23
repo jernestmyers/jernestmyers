@@ -11,23 +11,23 @@
     <ol>
         <li>learning NodeJS, MongoDB, Express, and Mongoose as i deep dive into server side development.</li>
         <li>reviewing code and helping answer questions on <a href="http://www.theodinproject.com">the odin project's</a> discord server.</li>
-    <li>reading <a href="https://github.com/getify/You-Dont-Know-JS">YDKJS</a> after having just re-read <em>The Principles of Object-Oriented JavaScript<em>.</li>
+    <li>reading <a href="https://github.com/getify/You-Dont-Know-JS">YDKJS</a> after having just re-read <em>The Principles of Object-Oriented JavaScript</em>.</li>
     </ol>
 
 <h4>🤝 i’m looking to facilitate my growth via code reviews and opportunities to collaborate.</h4>
 
 <h4>💬 ask me about programming, math, civil engineering, and soccer.</h4>
 
-<h4>📫 you can reach me on [LinkedIn](https://www.linkedin.com/in/jernestmyers).</h4>
+<h4>📫 you can reach me on <a href="https://www.linkedin.com/in/jernestmyers">LinkedIn</a>.</h4>
 
 <h3>💻 below is a list of some of my projects</h3>
     <ol>
-        <li>map itinerary builder -   [live](https://catch-me-at.web.app/) / [README](https://github.com/jernestmyers/catch-me-at#readme)</li>
-        <li>photo tagging game   -   [live](https://jernestmyers.github.io/photo-tag-game/) / [README](https://github.com/jernestmyers/photo-tag-game#readme)</li>
-        <li>shopping cart        -   [live](https://jernestmyers.github.io/shopping-cart/) / [README](https://github.com/jernestmyers/shopping-cart#readme)</li>
-        <li>battleship           -   [live](https://jernestmyers.github.io/battleship/) / [README](https://github.com/jernestmyers/battleship#readme)</li>
-        <li>memory game          -   [live](https://jernestmyers.github.io/memory-game/) / [README](https://github.com/jernestmyers/memory-game#readme)</li>
-        <li>CV builder           -   [live](https://jernestmyers.github.io/cv-project/) / [README](https://github.com/jernestmyers/cv-project#readme)</li>
+    <li>map itinerary builder -   <a href="https://catch-me-at.web.app/">live</a> / [README](https://github.com/jernestmyers/catch-me-at#readme)</li>
+        <li>photo tagging game   -   <a href="https://jernestmyers.github.io/photo-tag-game/">live</a> / <a href="https://github.com/jernestmyers/photo-tag-game#readme">README</a></li>
+        <li>shopping cart        -   <a href="https://jernestmyers.github.io/shopping-cart/">live</a> / <a href="https://github.com/jernestmyers/shopping-cart#readme">README</a></li>
+        <li>battleship           -   <a href="https://jernestmyers.github.io/battleship/">live</a> / <a href="https://github.com/jernestmyers/battleship#readme">README</a></li>
+        <li>memory game          -   <a href="https://jernestmyers.github.io/memory-game/">live</a> / <a href="https://github.com/jernestmyers/memory-game#readme">README</a></li>
+        <li>CV builder           -   <a href="https://jernestmyers.github.io/cv-project/">live</a> / <a href="https://github.com/jernestmyers/cv-project#readme">README</a></li>
     </ol>
 
 <h3 align="left">Languages and Tools:</h3>
