@@ -1,22 +1,22 @@
 <h1 align="center">welcome, i'm jeremy.</h1>
-<h3 align="center">self-taught programmer, former math teacher</h3>
+<h2 align="center">self-taught programmer, former math teacher</h2>
 
-- 🔭 i most recently...
+<h3>🔭 i most recently...</h3>
     1. built a feature-rich, robust [map itinerary builder](https://github.com/jernestmyers/catch-me-at#readme) with React, Firebase, [Google Maps JavaScript API](https://developers.google.com/maps/documentation/javascript/overview?hl=en) and [react-google-maps-api](https://github.com/JustFly1984/react-google-maps-api).
     2. completed the MongoDB University "MongoDB Basics" course.
 
-- 🌱 i’m currently...
+<h3>🌱 i’m currently...</h3>
     1. learning NodeJS, MongoDB, Express, and Mongoose as i deep dive into server side development.
     2. reviewing code and helping answer questions on [the odin project's](http://www.theodinproject.com) discord server.
     3. reading [YDKJS](https://github.com/getify/You-Dont-Know-JS) after having just re-read *The Principles of Object-Oriented JavaScript*.
 
-- 🤝 i’m looking to facilitate my growth via **code reviews and opportunities to collaborate**.
+<h4>🤝 i’m looking to facilitate my growth via **code reviews and opportunities to collaborate**.</h4>
 
-- 💬 ask me about **programming, math, civil engineering, and soccer**.
+<h4>💬 ask me about **programming, math, civil engineering, and soccer**.</h4>
 
-- 📫 you can reach me on [LinkedIn](https://www.linkedin.com/in/jernestmyers).
+<h4>📫 you can reach me on [LinkedIn](https://www.linkedin.com/in/jernestmyers).</h4>
 
-- 👨‍💻 **below is a list of some of my projects**
+<h3>💻 **below is a list of some of my projects**</h3>
     1. map itinerary builder -   [live](https://catch-me-at.web.app/) / [README](https://github.com/jernestmyers/catch-me-at#readme)
     2. photo tagging game   -   [live](https://jernestmyers.github.io/photo-tag-game/) / [README](https://github.com/jernestmyers/photo-tag-game#readme)
     3. shopping cart        -   [live](https://jernestmyers.github.io/shopping-cart/) / [README](https://github.com/jernestmyers/shopping-cart#readme)
