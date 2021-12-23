@@ -1,7 +1,5 @@
 <h1 align="center">welcome, i'm jeremy. you can reach me on <a href="https://www.linkedin.com/in/jernestmyers">LinkedIn</a>.</h1>
-<!-- <div align="center"> -->
 <h2 align="center">self-taught programmer, former math teacher</h2>
-<!-- </div> -->
 
 <h3>🔭 i most recently...</h3>
     <ol>
@@ -29,5 +27,6 @@
     <li>CV builder - <a href="https://jernestmyers.github.io/cv-project/">live</a> / <a href="https://github.com/jernestmyers/cv-project#readme">README</a></li>
   </ol>
 <br>
-<h4>🤝 i’m looking to facilitate my growth via code reviews and opportunities to collaborate.</h4>
-<h4>💬 ask me about programming, math, civil engineering, and soccer.</h4>
+<h3>🤝 i’m looking to facilitate my growth via code reviews and opportunities to collaborate.</h3>
+<br>
+<h3>💬 ask me about programming, math, civil engineering, and soccer.</h3>
