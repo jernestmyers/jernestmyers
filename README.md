@@ -1,5 +1,5 @@
 <h1 align="center">welcome, i'm jeremy.</h1>
-<h2 align="center">self-taught programmer, former math teacher</h2>
+<h2 align="center">self-taught programmer, former math teacher<br>📫 you can reach me on <a href="https://www.linkedin.com/in/jernestmyers">LinkedIn</a>.</h2>
 
 <h3>🔭 i most recently...</h3>
     <ol>
@@ -28,7 +28,4 @@
   </ol>
 <br>
 <h4>🤝 i’m looking to facilitate my growth via code reviews and opportunities to collaborate.</h4>
-<br>
 <h4>💬 ask me about programming, math, civil engineering, and soccer.</h4>
-<br>
-<h4>📫 you can reach me on <a href="https://www.linkedin.com/in/jernestmyers">LinkedIn</a>.</h4>
