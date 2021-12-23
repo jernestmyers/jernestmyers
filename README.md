@@ -12,6 +12,7 @@
         <li>learning NodeJS, MongoDB, Express, and Mongoose as i deep dive into server side development.</li>
         <li>reviewing code and helping answer questions on [the odin project's](http://www.theodinproject.com) discord server.</li>
         <li>reading [YDKJS](https://github.com/getify/You-Dont-Know-JS) after having just re-read *The Principles of Object-Oriented JavaScript*.</li>
+    </ol>
 
 <h4>🤝 i’m looking to facilitate my growth via code reviews and opportunities to collaborate.</h4>
 
