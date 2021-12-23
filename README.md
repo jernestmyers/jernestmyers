@@ -16,11 +16,11 @@
 
 <h4>🤝 i’m looking to facilitate my growth via code reviews and opportunities to collaborate.</h4>
 
-    <h4>💬 ask me about programming, math, civil engineering, and soccer.</h4>
+<h4>💬 ask me about programming, math, civil engineering, and soccer.</h4>
 
-    <h4>📫 you can reach me on [LinkedIn](https://www.linkedin.com/in/jernestmyers).</h4>
+<h4>📫 you can reach me on [LinkedIn](https://www.linkedin.com/in/jernestmyers).</h4>
 
-    <h3>💻 below is a list of some of my projects</h3>
+<h3>💻 below is a list of some of my projects</h3>
     <ol>
         <li>map itinerary builder -   [live](https://catch-me-at.web.app/) / [README](https://github.com/jernestmyers/catch-me-at#readme)</li>
         <li>photo tagging game   -   [live](https://jernestmyers.github.io/photo-tag-game/) / [README](https://github.com/jernestmyers/photo-tag-game#readme)</li>
