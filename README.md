@@ -1,5 +1,8 @@
 <h1 align="center">welcome, i'm jeremy.</h1>
-<h2 align="center">self-taught programmer, former math teacher<br>📫 you can reach me on <a href="https://www.linkedin.com/in/jernestmyers">LinkedIn</a>.</h2>
+<div align="center">
+    <h2>self-taught programmer, former math teacher</h2>
+    <h4>📫 you can reach me on <a href="https://www.linkedin.com/in/jernestmyers">LinkedIn</a>.</h4>
+</div>
 
 <h3>🔭 i most recently...</h3>
     <ol>
