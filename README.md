@@ -9,7 +9,7 @@
 <br>
 <h3>🌱 i’m currently...</h3>
   <ol>
-    <li>learning NodeJS, MongoDB, Express, and Mongoose as i deep dive into server side development.</li>
+    <li>working through <a href="https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Tutorial_local_library_website">MDN's Express Tutorial</a>, which utilizes NodeJS, Express, Mongoose, and MongoDB.</li>
     <li>reviewing code and helping answer questions on <a href="http://www.theodinproject.com">the odin project's</a> discord server.</li>
     <li>reading <a href="https://github.com/getify/You-Dont-Know-JS">YDKJS</a> after having just re-read <em>The Principles of Object-Oriented JavaScript</em>.</li>
   </ol>
