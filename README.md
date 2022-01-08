@@ -10,7 +10,7 @@
 <br>
 <h3>🌱 i’m currently...</h3>
   <ol>
-    <li>planning out my next project, <a href="https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs/lessons/inventory-application">this inventory applicaion</a>. the project will be built with NodeJS, Express, Mongoose, and MongoDB.</li>
+    <li>planning out my next project, <a href="https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs/lessons/inventory-application">this inventory application</a>. the project will be built with NodeJS, Express, Mongoose, and MongoDB.</li>
     <li>reviewing code and helping answer questions on <a href="http://www.theodinproject.com">the odin project's</a> discord server.</li>
     <li>reading <a href="https://github.com/getify/You-Dont-Know-JS">YDKJS</a> after having just re-read <em>The Principles of Object-Oriented JavaScript</em>.</li>
   </ol>
