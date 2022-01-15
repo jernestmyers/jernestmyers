@@ -12,7 +12,7 @@
   <ol>
     <li>planning out my next project, <a href="https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs/lessons/inventory-application">this inventory application</a>. the project will be built with NodeJS, Express, Mongoose, and MongoDB.</li>
     <li>reviewing code and helping answer questions on <a href="http://www.theodinproject.com">the odin project's</a> discord server.</li>
-    <li>reading <a href="https://github.com/getify/You-Dont-Know-JS">YDKJS</a> after having just re-read <em>The Principles of Object-Oriented JavaScript</em>.</li>
+    <li>reading <a href="https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/README.md">YDKJS: Scope & Closures</a> after having just reviewed <em>YDKJS: Get Started</em> and <em>The Principles of Object-Oriented JavaScript</em>.</li>
   </ol>
 <br>    
 <h3 align="left">Languages and Tools:</h3>
