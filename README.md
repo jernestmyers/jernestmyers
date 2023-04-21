@@ -1,6 +1,3 @@
-<h1 align="center">welcome, i'm jeremy.</h1>
-<h2 align="center">self-taught programmer, former math teacher</h2>
- 
 <h3 align="left">languages and tools:</h3>
 <p align="left"> 
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
@@ -14,7 +11,7 @@
  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 </p>
 
-<h3>💻 below is a list of some of my personal projects</h3>
+<h3>below is a list of some of my personal projects</h3>
   <ol>
     <li>map itinerary builder - <a href="https://catch-me-at.web.app/">live</a> / <a href="https://github.com/jernestmyers/catch-me-at#readme">README</a></li>
     <li>photo tagging game - <a href="https://jernestmyers.github.io/photo-tag-game/">live</a> / <a href="https://github.com/jernestmyers/photo-tag-game#readme">README</a></li>
