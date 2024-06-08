@@ -14,7 +14,7 @@
  </li>
 </ul>
 
-<h3>below is a list of some of my personal projects</h3>
+<h3>personal projects</h3>
   <ol>
     <li>household expenses tracker (in progress) - <a href="https://monthly-expenses-tracker.adaptable.app/">live</a> / <a href="https://github.com/jernestmyers/monthly-expenses-tracker#readme">README</a></li>
     <li>map itinerary builder - <a href="https://catch-me-at.web.app/">live</a> / <a href="https://github.com/jernestmyers/catch-me-at#readme">README</a></li>
