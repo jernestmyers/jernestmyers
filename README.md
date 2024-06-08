@@ -1,4 +1,4 @@
-<h3 align="left">languages and tools:</h3>
+<h3 align="left">languages and tools</h3>
 <ul>
  <li>
    <strong>languages</strong>: javascript, typescript, css, html, sql
