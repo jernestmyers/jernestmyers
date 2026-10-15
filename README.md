@@ -1,16 +1,16 @@
 <h3 align="left">languages and tools</h3>
 <ul>
  <li>
-   <strong>languages</strong>: javascript, typescript, css, html, sql
+   <strong>languages</strong>: javascript, typescript, python, java, c, sql
  </li>
  <li>
-   <strong>frontend</strong>: react, redux, material UI, tailwind, emotion, sass, storybook, plotly, visx, leaflet, WCAG/ARIA
+   <strong>frontend</strong>: react, redux, material UI, tailwind, emotion, sass, storybook, plotly, visx, leaflet, openlayers, WCAG/ARIA
  </li>
  <li>
-   <strong>backend</strong>: node, REST, firebase, express, mongoose, mongodb, postgres, postman, JWT, passport
+   <strong>backend</strong>: node, REST, firebase, express, mongoose, mongodb, postgres, postman, JWT, passport, fastAPI
  </li>
  <li>
-   <strong>tools/tech</strong>: git, github, vscode, webpack, yarn, npm, nx, figma, confluence, redmine
+   <strong>tools/tech</strong>: git, github, docker, yarn, npm, nx, figma, confluence, redmine
  </li>
 </ul>
 
