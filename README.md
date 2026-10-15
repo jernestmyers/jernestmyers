@@ -27,7 +27,8 @@
 
 <h3>open source contributions</h3>
 <ul>
- <li><a href="https://github.com/VEuPathDB">VEuPathDB</a>: i currently work at this grant-funded, open-source institution. the majority of my contributions are in <a href="https://github.com/VEuPathDB/web-monorepo">VEuPathDB/web-monorepo</a> but i've made dozens of contributions to service code over the years too.</li>
+  <li><a href="https://github.com/simonsobs">Simons Observatory</a>: i currently work on developing research software for SO projects. i built the clients for our <a href="https://github.com/simonsobs/tileviewer">map viewer</a> and our <a href="https://github.com/simonsobs/lightview">light curve viewer</a>. i am also involved in building and maintaining the backend services for both clients: <a href="https://github.com/simonsobs/tilemaker">tilemaker</a> and <a href="https://github.com/simonsobs/lightserve">lightserve</a>.</li>
+ <li><a href="https://github.com/VEuPathDB">VEuPathDB</a>: i used to work at this grant-funded, open-source institution. the majority of my contributions are in <a href="https://github.com/VEuPathDB/web-monorepo">VEuPathDB/web-monorepo</a> but i've made dozens of contributions to service code over the years too.</li>
  <li>
   <a href="https://github.com/airbnb/visx">visx</a>: i submitted <a href="https://github.com/airbnb/visx/pull/1734">a bug fix</a> that aims to improve the tooltip behavior with multiple points on the XYChart. we built a visualization on top of the visx XYChart component and the tooltip behavior was problematic. until visx accepts my bug fix, or merges its own fix, we are using a forked version of the visx/xychart library in our codebase that includes my changes, <a href="https://github.com/VEuPathDB/web-monorepo/pull/381">as described in this PR</a>.
  </li>
